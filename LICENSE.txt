@@ -1,4 +1,3 @@
-
 Copyright (c) 2026 mo3owana. All rights reserved.
 
 Ce code, le design, les textes, le nom "Mo3owana" et le logo sont la propriete
